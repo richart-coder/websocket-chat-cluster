@@ -1,0 +1,7 @@
+{
+	"prettier.bracketSpacing": false,
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnPaste": true,
+	"workbench.colorTheme": "Visual Studio Dark"
+}
